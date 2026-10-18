@@ -95,7 +95,7 @@ export default function Hero() {
           <div className="absolute -inset-4 rounded-[2rem] bg-gradient-to-br from-accent/40 to-accent-2/30 blur-2xl opacity-60" />
           <div className="relative h-64 w-64 sm:h-72 sm:w-72 rounded-[2rem] overflow-hidden glow border border-card-border">
             <Image
-              src="/images/profile.jpg"
+              src="/images/profile.webp"
               alt={profile.name}
               fill
               priority
