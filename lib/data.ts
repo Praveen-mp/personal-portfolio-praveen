@@ -194,6 +194,7 @@ export const projects: Project[] = [
       "Built Excel/PDF export and a saved-reports feature for re-running common questions against live data on demand.",
       "Set up CI/CD with GitHub Actions running the full test suite, score-gated pylint, and Conventional Commits enforcement — 50+ unit tests using dependency-injected fakes, requiring no live database or LLM to run.",
     ],
+    link: "https://github.com/Praveen-mp/CredQuery-Portal",
     featured: true,
   },
 ];
